@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1675009690 source:d:\my projects\100variableapplication\100variableapplication.c
+	<stdio.h>
+	<stdlib.h>
+
